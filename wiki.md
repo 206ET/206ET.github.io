@@ -6,7 +6,7 @@
 ---
 
 # LeBron James vs. Michael Jordan: The Greatest of All Time Debate
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.si.com%2Fnba%2F2018%2F06%2F11%2Fmichael-jordan-lebron-james-greatest-of-all-time-debate&psig=AOvVaw38NNHTuemG-ocuy_bCpJ44&ust=1760502585166000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPjnv6ztopADFQAAAAAdAAAAABAE)
+![](https://www.si.com/.image/t_share/MTY4MTk1NTAyNzM0NjUzMzc1/michael-jordan-lebron-james.jpg)
 
 This is an ongoing debate that spans stats, eras, and even culture: **Michael Jordan** dominated the 90s with six titles and a perfect Finals record, while **LeBron James** built his case on all-around impact, longevity, and accomplishments across multiple teams unlike anyone else. Deciding the GOAT depends on what you personally value more such as, peak dominance vs. sustained excellence/longevity, 6-0 vs. All Time Records, era context, etc...
 
