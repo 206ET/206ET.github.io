@@ -59,7 +59,7 @@ Relevant areas: Finance, Information Systems, data + business analysis
 
 ## Skills
 
-- **Software/Tools:** Microsoft Excel, Microsoft Office, Google Suite  
+- **Software/Tools:** Microsoft Excel, Microsoft Office, Github, VSCODE, R, Python  
 - **Other:** Communication, teamwork, customer support, time management
 
 ---
