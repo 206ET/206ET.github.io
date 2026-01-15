@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/style.css">
+
 # Emmanual Tadesse
 
 [GitHub](https://github.com/206ET) · Seattle, WA 
