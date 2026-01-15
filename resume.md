@@ -68,7 +68,6 @@ Relevant areas: Finance, Information Systems, data + business analysis
 
 - GitHub: https://github.com/206ET  
 - Linkden: https://www.linkedin.com/in/emmanual-tadesse-83866a263 
-- (Add any portfolio link here)
 
 ---
 
