@@ -1,6 +1,6 @@
 # Emmanual Tadesse
 
-[GitHub](https://github.com/206ET) · Seattle, WA
+[GitHub](https://github.com/206ET) · Seattle, WA 
 
 ---
 
@@ -13,8 +13,9 @@
 ## Education
 
 ## University of Washington (Seattle, WA)  
-**B.A. Finance** (Expected **June 2026**)  
-Relevant areas: Finance, Information Systems, data + business analysis
+**B.A. Data Science** (Expected **June 2026**)  
+**Minor: Informatics** 
+Relevant areas: Information Systems, data + business analysis
 
 ---
 
