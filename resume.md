@@ -73,6 +73,7 @@ Relevant areas: Finance, Information Systems, data + business analysis
 ---
 
 ## Profile Image 
+![Emmanual Tadesse](assets/profile.jpg)
 
 
 ---
